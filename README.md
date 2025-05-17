@@ -1,2 +1,2 @@
 # hello-world
-此分支用于练习Github流程
+此存储库用于练习Github流程
